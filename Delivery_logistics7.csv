@@ -1,0 +1,14 @@
+region,regional_rank,delivery_partner,total_orders,delay_rate_pct,avg_rating
+central,1,"blue dart",565,0.00,3.75
+central,2,shadowfax,561,0.00,3.68
+central,2,ekart,530,0.00,3.68
+east,1,delhivery,546,0.00,3.79
+east,2,fedex,578,0.00,3.71
+east,2,"amazon logistics",513,0.00,3.71
+north,1,dhl,522,0.00,3.72
+north,2,"blue dart",575,0.00,3.71
+south,1,fedex,528,0.00,3.77
+south,2,dhl,556,0.00,3.73
+south,2,"ecom express",558,0.00,3.73
+west,1,fedex,583,0.00,3.72
+west,2,ekart,580,0.00,3.71

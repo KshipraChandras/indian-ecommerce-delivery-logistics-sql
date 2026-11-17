@@ -1,0 +1,4 @@
+delivery_status,delayed,shipment_count,pct_of_total,avg_customer_rating
+delivered,delayed,18331,73.32,4.21
+delayed,delayed,5341,21.36,2.40
+failed,delayed,1328,5.31,1.31

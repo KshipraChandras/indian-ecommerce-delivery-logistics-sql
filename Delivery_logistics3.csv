@@ -1,0 +1,10 @@
+delivery_partner,total_orders,delayed_orders,delay_rate_pct,avg_actual_time_hrs,avg_expected_time_hrs,avg_rating
+delhivery,2786,0,0.00,1970,1970,3.69
+xpressbees,2826,0,0.00,1970,1970,3.61
+shadowfax,2736,0,0.00,1970,1970,3.66
+dhl,2802,0,0.00,1970,1970,3.69
+"amazon logistics",2711,0,0.00,1970,1970,3.64
+"blue dart",2798,0,0.00,1970,1970,3.68
+fedex,2818,0,0.00,1970,1970,3.70
+"ecom express",2722,0,0.00,1970,1970,3.67
+ekart,2801,0,0.00,1970,1970,3.66

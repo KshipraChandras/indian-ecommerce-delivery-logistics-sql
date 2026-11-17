@@ -1,0 +1,25 @@
+delivery_mode,vehicle_type,total_shipments,avg_distance_km,avg_cost_inr,cost_per_km_inr
+express,"ev van",1017,152.71,887.51,5.81
+express,scooter,1001,152.79,887.3,5.81
+express,"ev bike",1073,153.06,890.83,5.82
+express,bike,1078,149.01,870.95,5.84
+express,van,1006,148.88,871.41,5.85
+express,truck,1058,149.35,874.79,5.86
+"same day",truck,1017,152.89,937.82,6.13
+"same day",bike,988,152.02,933.89,6.14
+"same day",scooter,1097,149.61,920.76,6.15
+"same day","ev van",1044,151.02,929.37,6.15
+"same day",van,1075,151.97,935.52,6.16
+"same day","ev bike",1058,149.63,922.69,6.17
+standard,bike,1042,150.66,829.22,5.5
+standard,scooter,1004,147.23,810.8,5.51
+standard,truck,1047,150.36,828.18,5.51
+standard,"ev van",1038,150.14,826.94,5.51
+standard,van,1072,144.24,796.87,5.52
+standard,"ev bike",983,149.15,824.62,5.53
+"two day",bike,1052,154.09,845.13,5.48
+"two day",scooter,1072,151.02,829.75,5.49
+"two day","ev bike",1104,152.14,836.75,5.5
+"two day","ev van",1017,148.85,820.04,5.51
+"two day",van,1034,150.05,826.35,5.51
+"two day",truck,1023,148.51,819.24,5.52
